@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		body{
+			background-color: green;
+			font-family: initial;
+			font-size: 20px;
+		}
+
+		body{
+			text-align: center;
+            margin: auto;
+            width: 70%;
+            border: 3px solid green;
+            padding: 20px;
+        }
+	</style>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>online truck booking</title>
+</head>
+<body>
+	<h1>Book Online Truck</h1>
+	<form>
+		<label>Pick the location:</label>
+		<input type="truck" name="lacation"><br>
+		<label>Drop the location:</label>
+		<input type="truck" name=" location"><br>
+		<label>Truck No:</label>
+		<input type="truck" name="Truck  NO"><br>
+		<button>Check The Truck</button> 
+		<button>Track a Location</button>
+		<img src="C:\Users\DELL\Downloads">
+		
+	</form>
+
+</body>
+</html>
